@@ -1,4 +1,4 @@
-package designpattern.factorymethod;
+package designpattern.construction.factory;
 
 public class ConcreateProduct1 implements Product {
 

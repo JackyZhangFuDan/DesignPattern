@@ -4,8 +4,8 @@ import static org.junit.Assert.fail;
 
 import org.junit.Test;
 
-import designpattern.factory.Factory;
-import designpattern.factory.Product;
+import designpattern.construction.factory.Factory;
+import designpattern.construction.factory.Product;
 
 public class TestFactory {
 	

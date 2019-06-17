@@ -1,6 +1,6 @@
-package designpattern.abstractfactory;
+package designpattern.construction.abstractfactory;
 
-import designpattern.factory.Product;
+import designpattern.construction.factory.Product;
 
 public abstract class ProductA implements Product {
 

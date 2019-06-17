@@ -1,4 +1,4 @@
-package designpattern.factory;
+package designpattern.construction.factory;
 
 import designpattern.PatternRole;
 

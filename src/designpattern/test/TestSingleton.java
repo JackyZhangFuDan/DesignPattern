@@ -2,7 +2,7 @@ package designpattern.test;
 
 import org.junit.Test;
 
-import designpattern.singleton.Singleton;
+import designpattern.construction.singleton.Singleton;
 
 public class TestSingleton {
 

@@ -1,4 +1,4 @@
-package designpattern.abstractfactory;
+package designpattern.construction.abstractfactory;
 
 public class ConcreateProductA2 extends ProductA {
 
@@ -10,7 +10,7 @@ public class ConcreateProductA2 extends ProductA {
 
 	@Override
 	public String name() {	
-		return "Product A's 2nd type of product";
+		return "Product A's instance in 2nd product cluster";
 	}
 
 }

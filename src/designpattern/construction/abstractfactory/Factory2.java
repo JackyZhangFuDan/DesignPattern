@@ -1,10 +1,10 @@
-package designpattern.abstractfactory;
+package designpattern.construction.abstractfactory;
 
 public class Factory2 implements Factory{
 
 	@Override
 	public void definition() {
-		System.out.println("Factory class for product 2");
+		System.out.println("Factory class for product cluster 2");
 	}
 	
 	@Override

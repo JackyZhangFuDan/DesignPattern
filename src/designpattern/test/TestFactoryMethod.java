@@ -2,8 +2,8 @@ package designpattern.test;
 
 import org.junit.Test;
 
-import designpattern.factorymethod.Factory1;
-import designpattern.factorymethod.Product;
+import designpattern.construction.factorymethod.Factory1;
+import designpattern.construction.factorymethod.Product;
 
 public class TestFactoryMethod {
 	

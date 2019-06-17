@@ -2,10 +2,10 @@ package designpattern.test;
 
 import org.junit.Test;
 
-import designpattern.abstractfactory.Factory;
-import designpattern.abstractfactory.Factory1;
-import designpattern.abstractfactory.ProductA;
-import designpattern.abstractfactory.ProductB;
+import designpattern.construction.abstractfactory.Factory;
+import designpattern.construction.abstractfactory.Factory1;
+import designpattern.construction.abstractfactory.ProductA;
+import designpattern.construction.abstractfactory.ProductB;
 
 public class TestAbstractFactory {
 	/*
