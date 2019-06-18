@@ -10,7 +10,7 @@
 所有基类出现的地方子类都能出现。
 * 依赖倒转原则 (Dependency Inversion Principle，DIP)：
 程序要依赖接口而不是接口的具体实现，或者说要面向接口编程。
-* 接口隔离原则 (Interface Segregation Principle，ISP)
+* 接口隔离原则 (Interface Seperation Principle，ISP)
 一个类对另一个类的依赖应该建立在最小的接口上
 * 合成／聚合复用原则（Composite/Aggregate Reuse Principle，CARP）
 * 最小知识原则-迪米特原则 (Principle of Least Knowledge，PLK)
