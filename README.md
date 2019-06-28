@@ -44,5 +44,5 @@
 	* [State](https://github.com/JackyZhangFuDan/DesignPattern/blob/master/src/designpattern/action/)
 	* [Strategy](https://github.com/JackyZhangFuDan/DesignPattern/blob/master/src/designpattern/action/)
 	* [Chain of Responsibility](https://github.com/JackyZhangFuDan/DesignPattern/blob/master/src/designpattern/action/)
-	* [中介者](https://github.com/JackyZhangFuDan/DesignPattern/blob/master/src/designpattern/action/)
+	* [Mediator](https://github.com/JackyZhangFuDan/DesignPattern/blob/master/src/designpattern/action/)
 
