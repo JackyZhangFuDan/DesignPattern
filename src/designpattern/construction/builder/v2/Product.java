@@ -1,4 +1,4 @@
-package designpattern.construction.builder;
+package designpattern.construction.builder.v2;
 
 import designpattern.PatternRole;
 
